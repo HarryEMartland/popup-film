@@ -1,0 +1,29 @@
+[
+    {
+        "image": "https://giphy.com/embed/l0MYResEdNIyniuL6",
+        "width": 1500,
+        "height": 1000,
+        "left": 0,
+        "top": 0,
+        "pause": 2000,
+        "closeAfter": 7000
+    },
+    {
+        "image": "https://giphy.com/embed/l2YWBgExWM6b04gw0",
+        "width": 256,
+        "height": 199,
+        "left": 400,
+        "top": 5,
+        "pause": 0,
+        "closeAfter": 5000
+    },
+    {
+        "image": "https://giphy.com/embed/EiO0d5vsZSaZO",
+        "width": 256,
+        "height": 199,
+        "left": 200,
+        "top": 5,
+        "pause": 1000,
+        "closeAfter": 5000
+    }
+]
