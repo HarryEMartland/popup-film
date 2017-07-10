@@ -18,11 +18,20 @@
         "closeAfter": 5000
     },
     {
-        "image": "https://giphy.com/embed/EiO0d5vsZSaZO",
-        "width": 256,
-        "height": 199,
-        "left": 200,
-        "top": 5,
+        "image": "http://68.media.tumblr.com/542fb35834f54c3cbee1b88250e63d98/tumblr_os089lhCrU1vhukyeo3_250.gif",
+        "width": 300,
+        "height": 300,
+        "left": 5000,
+        "top": 300,
+        "pause": 1000,
+        "closeAfter": 5000
+    }
+ {
+        "image": "http://68.media.tumblr.com/869890cba92f54acab582e79d1eadbcc/tumblr_os08boSGZU1vhukyeo2_500.gif",
+        "width": 100,
+        "height": 100,
+        "left": 5500,
+        "top": 350,
         "pause": 1000,
         "closeAfter": 5000
     }
